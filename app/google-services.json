@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "769427902524",
+    "firebase_url": "https://collaborator-6774e-default-rtdb.firebaseio.com",
+    "project_id": "collaborator-6774e",
+    "storage_bucket": "collaborator-6774e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769427902524:android:75065f430d5e1cecaa3339",
+        "android_client_info": {
+          "package_name": "com.example.shareworkspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvbspSBR8U7EYiu3wt2zd_i51KJ2xRsL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
